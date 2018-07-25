@@ -16,9 +16,6 @@ int main(){
 		ch= fgetc(stream);
 		putchar(ch);
 	}while(ch!=EOF);
-	
-		
-	
 	fclose(stream);
 	return 0;
 }
