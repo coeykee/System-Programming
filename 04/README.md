@@ -12,3 +12,4 @@ Statement:
 
 
 result: sys_prog/04/output.txt
+
