@@ -1,15 +1,10 @@
-<h3>Experiment No.4</h3>
-Aim:Intermediate code Generation
+#Intermediate code Generation
 
-steps:
-1.
-2.
-3.
-4.
-5.
+#Steps to run program:
+* 1.Write expression in input.txt
+* 2.Open terminal and type commands
+	<code>gcc IC_gene.c </code>
+	<code>./a.out </code>
+* 3.Intermediate code input will be saved in output.txt
 
-Statement:
-
-
-result: sys_prog/04/output.txt
 
