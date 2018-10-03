@@ -1,6 +1,6 @@
-#Intermediate code Generation
+# Intermediate code Generation
 
-#Steps to run program:
+# Steps to run program:
 * 1.Write expression in input.txt
 * 2.Open terminal and type commands
 	<code>gcc IC_gene.c </code>

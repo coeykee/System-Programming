@@ -1,2 +1,2 @@
 # System-Programming
-This repository created to store system programming assignment problems
+This repository is created to save system programming problems
